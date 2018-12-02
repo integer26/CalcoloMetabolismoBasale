@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BMR Calculator</string>
+    <string name="gender">Select your gender</string>
+    <string name="unit">Select The unit</string>
+    <string name="weight">Set your weight (Kg/lb)</string>
+    <string name="height">how tall are you? (cm/inch)</string>
+    <string name="age">How old are you?</string>
+    <string name="calculate">Calculate</string>
+    <string name="empty_fields">You must fill all the fields above!</string>
+    <string name="bmr_is">Your BMR is:</string>
+    <string name="know_needs">Would you like to know your caloric needs?</string>
+    <string name="select_lifestyle">Select your lifestyle (gym exercises are not included):</string>
+    <string name="sedentary_life">Sedentary life</string>
+    <string name="busy_life_walk_a_lot_etc">Busy life (walk a lot etc..)</string>
+    <string name="very_intense_lifestyle">Very intense lifestyle</string>
+    <string name="calculator_menu">Calculator</string>
+    <string name="about_menu">About</string>
+
+    <string-array name="gender_names">
+        <item> male</item>
+        <item> female</item>
+    </string-array>
+
+    <string-array name="unit_names">
+        <item> metric</item>
+        <item> imperial</item>
+    </string-array>
+
+
+</resources>
