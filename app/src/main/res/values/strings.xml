@@ -15,15 +15,19 @@
     <string name="very_intense_lifestyle">Very intense lifestyle</string>
     <string name="calculator_menu">Calculator</string>
     <string name="about_menu">About</string>
+    <string name="you_need_cal">You need:</string>
+    <string name="bmr_info">Basal metabolic rate (BMR) is the rate of energy expenditure per unit time by endothermic animals at rest. Proper measurement requires a strict set of criteria be met.Metabolism comprises the processes that the body needs to function. Basal metabolic rate is the amount of energy per unit time that a person needs to keep the body functioning at rest. Some of those processes are breathing, blood circulation, controlling body temperature, cell growth, brain and nerve function, and contraction of muscles. Basal metabolic rate (BMR) affects the rate that a person burns calories and ultimately whether that individual maintains, gains, or loses weight. Several equations to predict the number of calories required by humans.</string>
+    <string name="bmr_title">What is the BMR?</string>
+    <string name="source_text">Source: Wikipedia</string>
 
     <string-array name="gender_names">
-        <item> male</item>
-        <item> female</item>
+        <item> Male</item>
+        <item> Female</item>
     </string-array>
 
     <string-array name="unit_names">
-        <item> metric</item>
-        <item> imperial</item>
+        <item> Metric</item>
+        <item> Imperial</item>
     </string-array>
 
 

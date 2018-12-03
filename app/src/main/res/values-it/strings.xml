@@ -7,11 +7,28 @@
     <string name="height">Quanto sei alto? (cm/inch)</string>
     <string name="age">Quanti anni hai?</string>
     <string name="calculate">Calcola</string>
-    <string name="empty_fields">Thevi riempire tutti i campi richiesti!</string>
+    <string name="empty_fields">Devi riempire tutti i campi richiesti!</string>
     <string name="bmr_is">"Il tuo metabolismo basale è: "</string>
     <string name="know_needs">Vuoi conoscere il tuo fabisogno calorico giornaliero?</string>
     <string name="select_lifestyle">Seleziona il tuo stile di vita (gli esercizi in palestra non sono compresi)</string>
     <string name="sedentary_life">Vita sedentaria</string>
     <string name="busy_life_walk_a_lot_etc">Vita impegnata</string>
     <string name="very_intense_lifestyle">Stile di vita molto intenso</string>
+    <string name="calculator_menu">Calcolatore</string>
+    <string name="about_menu">Info</string>
+
+
+    <string-array name="gender_names">
+        <item> Maschio</item>
+        <item> Femmina</item>
+    </string-array>
+
+    <string-array name="unit_names">
+        <item> Metrico</item>
+        <item> Imperiale</item>
+    </string-array>
+    <string name="you_need_cal">"Devi assumere: "</string>
+    <string name="bmr_title">Cos\'è il Metabolismo Basale?</string>
+    <string name="bmr_info">Il metabolismo basale (MB), o BMR, dall\'inglese Basal metabolic rate, è il dispendio energetico di un organismo vivente a riposo, comprendente dunque l\'energia necessaria per le funzioni metaboliche vitali (respirazione, circolazione sanguigna, digestione, attività del sistema nervoso, ecc.). Rappresenta circa il 45-75% del dispendio energetico totale nella giornata. Il valore del metabolismo basale si esprime in chilocalorie.</string>
+    <string name="source_text">Fonte: Wikipedia</string>
 </resources>

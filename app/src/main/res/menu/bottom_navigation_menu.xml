@@ -2,10 +2,12 @@
 <menu
     xmlns:android="http://schemas.android.com/apk/res/android">
     <item
-        android:id="@+id/feeds"
+        android:id="@+id/calculator"
+        android:icon="@drawable/ic_assessment"
         android:title="@string/calculator_menu"/>
     <item
-        android:id="@+id/friends"
+        android:id="@+id/info"
+        android:icon="@drawable/ic_info"
         android:title="@string/about_menu"/>
 
 </menu>
